@@ -1,5 +1,6 @@
 # Hash signs allow you enter comments! 
 tempfile.txt
+tempfile2.txt
 .DS_Store
 *.zip
 *.gz
